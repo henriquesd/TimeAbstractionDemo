@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAbstractionDemo", "TimeAbstractionDemo\TimeAbstractionDemo.csproj", "{06C69333-ECC4-4171-929D-C91DDB963D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeAbstractionDemoTests", "TimeAbstractionDemoTests\TimeAbstractionDemoTests.csproj", "{3C287495-5AF3-46BF-9F16-C0EB39A72133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C69333-ECC4-4171-929D-C91DDB963D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C69333-ECC4-4171-929D-C91DDB963D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C69333-ECC4-4171-929D-C91DDB963D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C69333-ECC4-4171-929D-C91DDB963D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C287495-5AF3-46BF-9F16-C0EB39A72133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C287495-5AF3-46BF-9F16-C0EB39A72133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C287495-5AF3-46BF-9F16-C0EB39A72133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C287495-5AF3-46BF-9F16-C0EB39A72133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9649F814-49E4-4774-A2CB-99B8DCB087A1}
+	EndGlobalSection
+EndGlobal
